@@ -18,4 +18,4 @@ Upon start-up, the program will install all the required modules to the the loca
 
 <br> 
 
-For a <em>very detailed</em> explaination of the algorithm and the GNN model, please look at ``thesis.pdf``. 
+For a <em>very detailed</em> explaination of the algorithm and the GNN model, please look at ``thesis.pdf``. The code was writtem a <em>while </em> back and I have gotten much better at programming since then! I know the the naming conventions are off and this requires some major refactoring, but I beleive the algorithm and model is still good!
